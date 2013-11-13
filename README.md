@@ -1,4 +1,4 @@
 TSA_Website
 ===========
 
-Web Design + the typical TSA website
+Web Design education + the typical TSA website
