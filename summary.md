@@ -3,8 +3,8 @@ On this page assignments for week-to-week work will be posted, in addition to op
 if you are stuck currently on how to code something a particular way.
 ##Assignments
 * Richie Fulop
-  *x
-  *y
+    - x
+    - y
 * Matt Guenter
 * Ethan Hanlon
 * Mackenzie Hintenach
